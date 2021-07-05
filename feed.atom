@@ -1,585 +1,386 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T19:26:16.978Z</id>
+    <id>urn:2021-07-05T19:37:26.941Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T19:26:16.978Z</updated>
+    <updated>2021-07-05T19:37:26.941Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
-        <id>https://css-tricks.com/?p=343166</id>
-        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
-        <updated>2021-07-05T14:17:33.000Z</updated>
-        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
-As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
-The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[BEWARE! Audacity Is Now Spyware. Time To Fork?]]></title>
+        <id>https://www.youtube.com/watch?v=vaX9LuOWRHE</id>
+        <link href="https://www.youtube.com/watch?v=vaX9LuOWRHE"/>
+        <updated>2021-07-05T19:04:21.000Z</updated>
         <author>
-            <name>Lari Maza</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
-        <id>https://css-tricks.com/?p=343671</id>
-        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
-        <updated>2021-07-05T14:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
-The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Build a Node.js Password Generator]]></title>
+        <id>https://www.youtube.com/watch?v=3Xx83JAktXk</id>
+        <link href="https://www.youtube.com/watch?v=3Xx83JAktXk"/>
+        <updated>2021-07-05T14:23:43.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
-        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
-        <updated>2021-07-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <title type="html"><![CDATA[Two Powerful Command Line Utilities 'cut' And 'tr']]></title>
+        <id>https://www.youtube.com/watch?v=_0IFtMFYroU</id>
+        <link href="https://www.youtube.com/watch?v=_0IFtMFYroU"/>
+        <updated>2021-07-03T20:31:37.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
-        <id>https://css-tricks.com/?p=343496</id>
-        <link href="https://css-tricks.com/the-fourteenth-fourth/"/>
-        <updated>2021-07-04T13:29:01.000Z</updated>
-        <summary type="html"><![CDATA[It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. 
-I’m writing this just days after my current home state of Oregon has …
-The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Can You Make Perfect Fried Rice Without a Wok? (Series Finale ft. Chinese Cooking Demystified)]]></title>
+        <id>https://www.youtube.com/watch?v=1L5qBMtFXBs</id>
+        <link href="https://www.youtube.com/watch?v=1L5qBMtFXBs"/>
+        <updated>2021-07-03T16:45:00.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Alex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Width Space]]></title>
-        <id>https://css-tricks.com/?p=343435</id>
-        <link href="https://css-tricks.com/zero-width-space/"/>
-        <updated>2021-07-02T20:39:04.000Z</updated>
-        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
-The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Pop!_OS And The COSMIC Desktop. The Best Desktop Linux?]]></title>
+        <id>https://www.youtube.com/watch?v=5_P3oDxdXUU</id>
+        <link href="https://www.youtube.com/watch?v=5_P3oDxdXUU"/>
+        <updated>2021-07-02T18:38:44.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good Meetings]]></title>
-        <id>https://css-tricks.com/?p=342995</id>
-        <link href="https://css-tricks.com/good-meetings/"/>
-        <updated>2021-07-02T14:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …
-The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Who's Telling the Truth? Using "Gobble" - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=T0SGL8Xq8Hw</id>
+        <link href="https://www.youtube.com/watch?v=T0SGL8Xq8Hw"/>
+        <updated>2021-07-02T15:34:17.000Z</updated>
         <author>
-            <name>Sarah Drasner</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <title type="html"><![CDATA[Htop Is Great But It Uses The Arrow Keys. Yuck! (#shorts)]]></title>
+        <id>https://www.youtube.com/watch?v=GFiSDJsbbs4</id>
+        <link href="https://www.youtube.com/watch?v=GFiSDJsbbs4"/>
+        <updated>2021-07-01T20:20:08.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
-        <id>60de3cf127f80207bcdbc9af</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
-        <updated>2021-07-02T04:55:18.000Z</updated>
-        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <title type="html"><![CDATA[A good cookie recipe (French with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=2N8H6LIdSgs</id>
+        <link href="https://www.youtube.com/watch?v=2N8H6LIdSgs"/>
+        <updated>2021-07-01T17:00:04.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
-        <id>https://css-tricks.com/?p=342994</id>
-        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
-        <updated>2021-07-02T00:02:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
-The setup is that you can use WooCommerce to sell things on a WordPress …
-The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[How the gas mantle made lamps 10X brighter]]></title>
+        <id>https://www.youtube.com/watch?v=F3rncxf4Or8</id>
+        <link href="https://www.youtube.com/watch?v=F3rncxf4Or8"/>
+        <updated>2021-07-01T14:35:54.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Technology Connections</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=343637</id>
-        <link href="https://web.dev/css-web-vitals/"/>
-        <updated>2021-07-01T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …
-The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Deliciously creamy ham and cheese Pithivier (made with an easy homemade puff pastry)]]></title>
+        <id>https://www.youtube.com/watch?v=prnwe6ompi0</id>
+        <link href="https://www.youtube.com/watch?v=prnwe6ompi0"/>
+        <updated>2021-07-01T03:05:16.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>French Cooking Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
-        <id>https://css-tricks.com/?p=342591</id>
-        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
-        <updated>2021-07-01T18:54:12.000Z</updated>
-        <summary type="html"><![CDATA[This is new stuff from DO.
-App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
-The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[A Physics Prof Bet Me $10,000 I'm Wrong]]></title>
+        <id>https://www.youtube.com/watch?v=yCsgoLc_fzI</id>
+        <link href="https://www.youtube.com/watch?v=yCsgoLc_fzI"/>
+        <updated>2021-06-30T18:31:01.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
-        <id>60dc72b527f80207bcdbbd8f</id>
-        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
-        <updated>2021-07-01T18:19:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
+        <title type="html"><![CDATA[A Base Gentoo Installation]]></title>
+        <id>https://www.youtube.com/watch?v=2sOfX_Lb1As</id>
+        <link href="https://www.youtube.com/watch?v=2sOfX_Lb1As"/>
+        <updated>2021-06-30T03:00:26.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
-        <id>60c0897ad3126007592d5701</id>
-        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
-        <updated>2021-07-01T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
+        <title type="html"><![CDATA[The Right Mindset For Growing As A Linux User]]></title>
+        <id>https://www.youtube.com/watch?v=PSuldSPgXSk</id>
+        <link href="https://www.youtube.com/watch?v=PSuldSPgXSk"/>
+        <updated>2021-06-28T14:00:07.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
-        <id>60d5e7ae6e1a1407b6b0bc5a</id>
-        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
-        <updated>2021-07-01T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
+        <title type="html"><![CDATA[Static Blog With Next.js and Markdown]]></title>
+        <id>https://www.youtube.com/watch?v=MrjeefD8sac</id>
+        <link href="https://www.youtube.com/watch?v=MrjeefD8sac"/>
+        <updated>2021-06-28T13:38:54.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
-        <id>https://css-tricks.com/?p=343092</id>
-        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
-        <updated>2021-07-01T14:40:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
-
-Clicking the button above lets me (or you!) instantly …
-The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Chat With Patrons (June 27, 2021)]]></title>
+        <id>https://www.youtube.com/watch?v=P88GG0S2ZEs</id>
+        <link href="https://www.youtube.com/watch?v=P88GG0S2ZEs"/>
+        <updated>2021-06-27T17:07:06.000Z</updated>
         <author>
-            <name>Cassidy Williams</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
-        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
-        <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <title type="html"><![CDATA[Chinese Masterchef JUDGES MY FRIED RICE (he tough tho)]]></title>
+        <id>https://www.youtube.com/watch?v=HDbCgoY0sMs</id>
+        <link href="https://www.youtube.com/watch?v=HDbCgoY0sMs"/>
+        <updated>2021-06-26T16:45:00.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+            <name>Alex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
-        <id>60dc78e927f80207bcdbbddc</id>
-        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
-        <updated>2021-07-01T04:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
+        <title type="html"><![CDATA[Linux Boomer Reacts To Windows 11 Video Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=aYlfkUt6x_8</id>
+        <link href="https://www.youtube.com/watch?v=aYlfkUt6x_8"/>
+        <updated>2021-06-26T13:00:01.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
-        <id>https://css-tricks.com/?p=343224</id>
-        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
-        <updated>2021-06-30T20:36:52.000Z</updated>
-        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
-The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Driverless Cars - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=Wd1_xpw7j3w</id>
+        <link href="https://www.youtube.com/watch?v=Wd1_xpw7j3w"/>
+        <updated>2021-06-25T14:06:24.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
-        <id>6063b8d69618b008528a9d79</id>
-        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
-        <updated>2021-06-30T18:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
+        <title type="html"><![CDATA[Learning Sed Is Beneficial For Linux Users]]></title>
+        <id>https://www.youtube.com/watch?v=EACe7aiGczw</id>
+        <link href="https://www.youtube.com/watch?v=EACe7aiGczw"/>
+        <updated>2021-06-24T21:59:14.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When a Click is Not Just a Click]]></title>
-        <id>https://css-tricks.com/?p=343064</id>
-        <link href="https://css-tricks.com/when-a-click-is-not-just-a-click/"/>
-        <updated>2021-06-30T14:45:42.000Z</updated>
-        <summary type="html"><![CDATA[The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…
-The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Core Web Vitals: An everyday explanation (Taiwanese with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=evrNn54UkHQ</id>
+        <link href="https://www.youtube.com/watch?v=evrNn54UkHQ"/>
+        <updated>2021-06-24T17:00:19.000Z</updated>
         <author>
-            <name>Travis Almand</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fixing a Bug in Low-Resolution Mode]]></title>
-        <id>https://css-tricks.com/?p=343182</id>
-        <link href="https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/"/>
-        <updated>2021-06-30T14:44:54.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
-The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Never buy puff pastry again: The easiest puff pastry recipe ever (ready in one hour)]]></title>
+        <id>https://www.youtube.com/watch?v=CqJA8KbmqB4</id>
+        <link href="https://www.youtube.com/watch?v=CqJA8KbmqB4"/>
+        <updated>2021-06-24T10:45:34.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>French Cooking Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
-        <id>6055c55b687d62084bf68804</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
-        <updated>2021-06-30T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
+        <title type="html"><![CDATA[The Brave Search Engine. Will This Be The Google Killer?]]></title>
+        <id>https://www.youtube.com/watch?v=lLcwGDQPZ-s</id>
+        <link href="https://www.youtube.com/watch?v=lLcwGDQPZ-s"/>
+        <updated>2021-06-23T22:33:30.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn React Router]]></title>
-        <id>60d5ea736e1a1407b6b0bc8d</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
-        <updated>2021-06-30T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
+        <title type="html"><![CDATA[Top 10 performance pitfalls - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=Lh9q3h2khlc</id>
+        <link href="https://www.youtube.com/watch?v=Lh9q3h2khlc"/>
+        <updated>2021-06-22T15:12:58.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
+        <title type="html"><![CDATA[Taking Ubuntu To The Next Level]]></title>
+        <id>https://www.youtube.com/watch?v=5b-xQkRWHjQ</id>
+        <link href="https://www.youtube.com/watch?v=5b-xQkRWHjQ"/>
+        <updated>2021-06-22T15:00:59.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
+        <title type="html"><![CDATA[You Are NOT The Software You Run! (#shorts)]]></title>
+        <id>https://www.youtube.com/watch?v=MVITl24rRHM</id>
+        <link href="https://www.youtube.com/watch?v=MVITl24rRHM"/>
+        <updated>2021-06-21T14:00:08.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
-        <id>https://css-tricks.com/?p=343470</id>
-        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
-        <updated>2021-06-29T22:43:50.000Z</updated>
-        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
-html {
-  font: 110%/1.4 system-ui;
-}
-…
-The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Transform Words Into Pretty Symbols In Emacs]]></title>
+        <id>https://www.youtube.com/watch?v=5iCjhdCUuLg</id>
+        <link href="https://www.youtube.com/watch?v=5iCjhdCUuLg"/>
+        <updated>2021-06-20T17:00:02.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
-        <id>https://css-tricks.com/?p=343260</id>
-        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
-        <updated>2021-06-29T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
-The squiggly lines that indicate possible spelling or grammar errors 
-…
-The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Redcore Linux Makes Gentoo User Friendly]]></title>
+        <id>https://www.youtube.com/watch?v=oFs9accYV2c</id>
+        <link href="https://www.youtube.com/watch?v=oFs9accYV2c"/>
+        <updated>2021-06-19T17:27:11.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>60db519527f80207bcdbb6fa</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
-        <updated>2021-06-29T20:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <title type="html"><![CDATA[I've Been Cooking Rice WRONG My Entire Life ! (the steaming method)]]></title>
+        <id>https://www.youtube.com/watch?v=pgkOLQCMKas</id>
+        <link href="https://www.youtube.com/watch?v=pgkOLQCMKas"/>
+        <updated>2021-06-19T16:45:00.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Alex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
-        <id>604b8c6ea7946308b7687683</id>
-        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
-        <updated>2021-06-29T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <title type="html"><![CDATA[Types of PDF - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=K7oxZCgO1dY</id>
+        <link href="https://www.youtube.com/watch?v=K7oxZCgO1dY"/>
+        <updated>2021-06-18T15:04:46.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
-        <id>https://css-tricks.com/?p=342736</id>
-        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
-        <updated>2021-06-29T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
-The answer, it …
-The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Fastify Crash Course | Node.js Framework]]></title>
+        <id>https://www.youtube.com/watch?v=Lk-uVEVGxOA</id>
+        <link href="https://www.youtube.com/watch?v=Lk-uVEVGxOA"/>
+        <updated>2021-06-18T12:52:09.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
-        <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <title type="html"><![CDATA[Word Processors Are Evil And Should Not Exist!]]></title>
+        <id>https://www.youtube.com/watch?v=p0nCEGTlTqM</id>
+        <link href="https://www.youtube.com/watch?v=p0nCEGTlTqM"/>
+        <updated>2021-06-17T20:01:46.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
-        <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
+        <title type="html"><![CDATA[What is the state of web frameworks in India (Hindi with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=zfNrB0C3lF0</id>
+        <link href="https://www.youtube.com/watch?v=zfNrB0C3lF0"/>
+        <updated>2021-06-17T17:00:59.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
-        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
-        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
-        <updated>2021-06-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
+        <title type="html"><![CDATA[Creamy chicken cooked with cognac and Riesling]]></title>
+        <id>https://www.youtube.com/watch?v=RicmYF3VpSc</id>
+        <link href="https://www.youtube.com/watch?v=RicmYF3VpSc"/>
+        <updated>2021-06-17T10:34:10.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+            <name>French Cooking Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
-        <updated>2021-06-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <title type="html"><![CDATA[The Longest-Running Evolution Experiment]]></title>
+        <id>https://www.youtube.com/watch?v=w4sLAQvEH-M</id>
+        <link href="https://www.youtube.com/watch?v=w4sLAQvEH-M"/>
+        <updated>2021-06-16T15:36:29.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
-        <updated>2021-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <title type="html"><![CDATA[Why do hurricane lanterns look like that?]]></title>
+        <id>https://www.youtube.com/watch?v=tURHTuKHBZs</id>
+        <link href="https://www.youtube.com/watch?v=tURHTuKHBZs"/>
+        <updated>2021-06-16T15:24:29.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+            <name>Technology Connections</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
-        <updated>2021-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
+        <title type="html"><![CDATA[I Built My DREAM WOK STOVE ! High power + Knee operated]]></title>
+        <id>https://www.youtube.com/watch?v=vBIZytq_9vs</id>
+        <link href="https://www.youtube.com/watch?v=vBIZytq_9vs"/>
+        <updated>2021-06-12T16:45:01.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Josh Singer)</name>
+            <name>Alex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
-        <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
-        <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
-        <updated>2021-06-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[Two ingredients dessert: the white chocolate mousse (with red fruit coulis)]]></title>
+        <id>https://www.youtube.com/watch?v=B9h8Sbj20ac</id>
+        <link href="https://www.youtube.com/watch?v=B9h8Sbj20ac"/>
+        <updated>2021-06-12T12:53:22.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>French Cooking Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automating Screen Reader Testing On macOS Using Auto VO]]></title>
-        <id>https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/</id>
-        <link href="https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/"/>
-        <updated>2021-06-23T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
+        <title type="html"><![CDATA[How bad is Exponential Growth? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=fpkQ_ZqZY4o</id>
+        <link href="https://www.youtube.com/watch?v=fpkQ_ZqZY4o"/>
+        <updated>2021-06-11T16:05:30.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
+        <title type="html"><![CDATA[Advanced patterns for Progressive Web Apps (Spanish with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=PPJKljH1dn8</id>
+        <link href="https://www.youtube.com/watch?v=PPJKljH1dn8"/>
+        <updated>2021-06-10T17:05:24.000Z</updated>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
-        <updated>2021-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <title type="html"><![CDATA[Thinking on ways to solve COLOR SCHEMES]]></title>
+        <id>https://www.youtube.com/watch?v=oHcTn83M1ls</id>
+        <link href="https://www.youtube.com/watch?v=oHcTn83M1ls"/>
+        <updated>2021-06-09T17:01:09.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
-        <updated>2021-06-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <title type="html"><![CDATA[Bootstrap 5 Crash Course | Website Build & Deploy]]></title>
+        <id>https://www.youtube.com/watch?v=4sosXZsdy-s</id>
+        <link href="https://www.youtube.com/watch?v=4sosXZsdy-s"/>
+        <updated>2021-06-09T13:28:51.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
-        <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
-        <link href="https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/"/>
-        <updated>2021-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
+        <title type="html"><![CDATA[From nothin’ to gzip - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=PZryHH8roIY</id>
+        <link href="https://www.youtube.com/watch?v=PZryHH8roIY"/>
+        <updated>2021-06-08T14:41:15.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
-        <link href="https://smashingmagazine.com/2021/06/client-side-routing-next-js/"/>
-        <updated>2021-06-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
-        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-06-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
-        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
-        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
-        <updated>2021-06-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nic Chan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
-        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
-        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
-        <updated>2021-06-15T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
-        <updated>2021-06-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
-        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
-        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
-        <updated>2021-06-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
-        <updated>2021-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
-        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
-        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
-        <updated>2021-06-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
-        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
-        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
-        <updated>2021-06-10T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
-        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
-        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-06-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
-        <updated>2021-06-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
-        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
-        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
-        <updated>2021-06-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
 </feed>

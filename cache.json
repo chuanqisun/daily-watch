@@ -1,656 +1,448 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "Honeypot",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA",
+      "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
+      "articles": []
+    },
+    {
+      "title": "Computerphile",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "id": "https://www.youtube.com/watch?v=T0SGL8Xq8Hw",
           "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T0SGL8Xq8Hw",
+          "publishedOn": "2021-07-02T15:34:17.000Z",
+          "wordCount": null,
+          "title": "Who's Telling the Truth? Using \"Gobble\" - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Wd1_xpw7j3w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wd1_xpw7j3w",
+          "publishedOn": "2021-06-25T14:06:24.000Z",
+          "wordCount": null,
+          "title": "Driverless Cars - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
+          "publishedOn": "2021-06-18T15:04:46.000Z",
+          "wordCount": null,
+          "title": "Types of PDF - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
+          "publishedOn": "2021-06-11T16:05:30.000Z",
+          "wordCount": null,
+          "title": "How bad is Exponential Growth? - Computerphile"
         }
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "DistroTube",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+      "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=343166",
-          "author": "Lari Maza",
-          "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/",
-          "publishedOn": "2021-07-05T14:17:33.000Z",
-          "wordCount": 1113,
-          "title": "Kubernetes Explained Simply: Containers, Pods and Images"
+          "id": "https://www.youtube.com/watch?v=vaX9LuOWRHE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vaX9LuOWRHE",
+          "publishedOn": "2021-07-05T19:04:21.000Z",
+          "wordCount": null,
+          "title": "BEWARE! Audacity Is Now Spyware. Time To Fork?"
         },
         {
-          "id": "https://css-tricks.com/?p=343671",
-          "author": "Chris Coyier",
-          "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
-          "publishedOn": "2021-07-05T14:15:20.000Z",
-          "wordCount": 2658,
-          "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
+          "id": "https://www.youtube.com/watch?v=_0IFtMFYroU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_0IFtMFYroU",
+          "publishedOn": "2021-07-03T20:31:37.000Z",
+          "wordCount": null,
+          "title": "Two Powerful Command Line Utilities 'cut' And 'tr'"
         },
         {
-          "id": "https://css-tricks.com/?p=343496",
-          "author": "Chris Coyier",
-          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-fourteenth-fourth/",
-          "publishedOn": "2021-07-04T13:29:01.000Z",
-          "wordCount": 1921,
-          "title": "The Fourteenth Fourth"
+          "id": "https://www.youtube.com/watch?v=5_P3oDxdXUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5_P3oDxdXUU",
+          "publishedOn": "2021-07-02T18:38:44.000Z",
+          "wordCount": null,
+          "title": "Pop!_OS And The COSMIC Desktop. The Best Desktop Linux?"
         },
         {
-          "id": "https://css-tricks.com/?p=343435",
-          "author": "Chris Coyier",
-          "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/zero-width-space/",
-          "publishedOn": "2021-07-02T20:39:04.000Z",
-          "wordCount": 1834,
-          "title": "Zero-Width Space"
+          "id": "https://www.youtube.com/watch?v=GFiSDJsbbs4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GFiSDJsbbs4",
+          "publishedOn": "2021-07-01T20:20:08.000Z",
+          "wordCount": null,
+          "title": "Htop Is Great But It Uses The Arrow Keys. Yuck! (#shorts)"
         },
         {
-          "id": "https://css-tricks.com/?p=342995",
-          "author": "Sarah Drasner",
-          "description": "Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …\nThe post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/good-meetings/",
-          "publishedOn": "2021-07-02T14:41:26.000Z",
-          "wordCount": 3441,
-          "title": "Good Meetings"
+          "id": "https://www.youtube.com/watch?v=2sOfX_Lb1As",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2sOfX_Lb1As",
+          "publishedOn": "2021-06-30T03:00:26.000Z",
+          "wordCount": null,
+          "title": "A Base Gentoo Installation"
         },
         {
-          "id": "https://css-tricks.com/?p=342994",
-          "author": "Chris Coyier",
-          "description": "This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.\nThe setup is that you can use WooCommerce to sell things on a WordPress …\nThe post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/",
-          "publishedOn": "2021-07-02T00:02:51.000Z",
-          "wordCount": 1264,
-          "title": "The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes."
+          "id": "https://www.youtube.com/watch?v=PSuldSPgXSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PSuldSPgXSk",
+          "publishedOn": "2021-06-28T14:00:07.000Z",
+          "wordCount": null,
+          "title": "The Right Mindset For Growing As A Linux User"
         },
         {
-          "id": "https://css-tricks.com/?p=343637",
-          "author": "Chris Coyier",
-          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/css-web-vitals/",
-          "publishedOn": "2021-07-01T18:54:45.000Z",
-          "wordCount": 1639,
-          "title": "CSS for Web Vitals"
+          "id": "https://www.youtube.com/watch?v=P88GG0S2ZEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P88GG0S2ZEs",
+          "publishedOn": "2021-06-27T17:07:06.000Z",
+          "wordCount": null,
+          "title": "Chat With Patrons (June 27, 2021)"
         },
         {
-          "id": "https://css-tricks.com/?p=342591",
-          "author": "Chris Coyier",
-          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
-          "publishedOn": "2021-07-01T18:54:12.000Z",
-          "wordCount": 971,
-          "title": "App Platform on Digital Ocean"
+          "id": "https://www.youtube.com/watch?v=aYlfkUt6x_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aYlfkUt6x_8",
+          "publishedOn": "2021-06-26T13:00:01.000Z",
+          "wordCount": null,
+          "title": "Linux Boomer Reacts To Windows 11 Video Trailer"
         },
         {
-          "id": "https://css-tricks.com/?p=343092",
-          "author": "Cassidy Williams",
-          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
-          "publishedOn": "2021-07-01T14:40:14.000Z",
-          "wordCount": 1576,
-          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
+          "id": "https://www.youtube.com/watch?v=EACe7aiGczw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EACe7aiGczw",
+          "publishedOn": "2021-06-24T21:59:14.000Z",
+          "wordCount": null,
+          "title": "Learning Sed Is Beneficial For Linux Users"
         },
         {
-          "id": "https://css-tricks.com/?p=343224",
-          "author": "Chris Coyier",
-          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
-          "publishedOn": "2021-06-30T20:36:52.000Z",
-          "wordCount": 990,
-          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+          "id": "https://www.youtube.com/watch?v=lLcwGDQPZ-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lLcwGDQPZ-s",
+          "publishedOn": "2021-06-23T22:33:30.000Z",
+          "wordCount": null,
+          "title": "The Brave Search Engine. Will This Be The Google Killer?"
         },
         {
-          "id": "https://css-tricks.com/?p=343064",
-          "author": "Travis Almand",
-          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
-          "publishedOn": "2021-06-30T14:45:42.000Z",
-          "wordCount": 4537,
-          "title": "When a Click is Not Just a Click"
+          "id": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
+          "publishedOn": "2021-06-22T15:00:59.000Z",
+          "wordCount": null,
+          "title": "Taking Ubuntu To The Next Level"
         },
         {
-          "id": "https://css-tricks.com/?p=343182",
-          "author": "Chris Coyier",
-          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
-          "publishedOn": "2021-06-30T14:44:54.000Z",
-          "wordCount": 1103,
-          "title": "Fixing a Bug in Low-Resolution Mode"
+          "id": "https://www.youtube.com/watch?v=MVITl24rRHM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MVITl24rRHM",
+          "publishedOn": "2021-06-21T14:00:08.000Z",
+          "wordCount": null,
+          "title": "You Are NOT The Software You Run! (#shorts)"
         },
         {
-          "id": "https://css-tricks.com/?p=343470",
-          "author": "Chris Coyier",
-          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
-          "publishedOn": "2021-06-29T22:43:50.000Z",
-          "wordCount": 861,
-          "title": "What does `font: 110%/1.4 system-ui` mean?"
+          "id": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
+          "publishedOn": "2021-06-20T17:00:02.000Z",
+          "wordCount": null,
+          "title": "Transform Words Into Pretty Symbols In Emacs"
         },
         {
-          "id": "https://css-tricks.com/?p=343260",
-          "author": "Chris Coyier",
-          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
-          "publishedOn": "2021-06-29T20:25:00.000Z",
-          "wordCount": 3316,
-          "title": "Chromium spelling and grammar features"
+          "id": "https://www.youtube.com/watch?v=oFs9accYV2c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oFs9accYV2c",
+          "publishedOn": "2021-06-19T17:27:11.000Z",
+          "wordCount": null,
+          "title": "Redcore Linux Makes Gentoo User Friendly"
         },
         {
-          "id": "https://css-tricks.com/?p=342736",
-          "author": "Chris Coyier",
-          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
-          "publishedOn": "2021-06-29T14:37:21.000Z",
-          "wordCount": 839,
-          "title": ":nth-child Between Two Fixed Indexes"
+          "id": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
+          "publishedOn": "2021-06-17T20:01:46.000Z",
+          "wordCount": null,
+          "title": "Word Processors Are Evil And Should Not Exist!"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "Traversy Media",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
+      "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1582,
-          "title": "Using HSL Colors In CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.youtube.com/watch?v=3Xx83JAktXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Xx83JAktXk",
+          "publishedOn": "2021-07-05T14:23:43.000Z",
+          "wordCount": null,
+          "title": "Build a Node.js Password Generator"
         },
         {
-          "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
-          "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
-          "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4198,
-          "title": "Email Testing Flow As It Should Be",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.youtube.com/watch?v=MrjeefD8sac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MrjeefD8sac",
+          "publishedOn": "2021-06-28T13:38:54.000Z",
+          "wordCount": null,
+          "title": "Static Blog With Next.js and Markdown"
         },
         {
-          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
-          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4764,
-          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
+          "publishedOn": "2021-06-18T12:52:09.000Z",
+          "wordCount": null,
+          "title": "Fastify Crash Course | Node.js Framework"
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "author": "hello@smashingmagazine.com (Surma)",
-          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
-          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4731,
-          "title": "The State Of Web Workers In 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3644,
-          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
-          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2453,
-          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "publishedOn": "2021-06-29T05:30:00.000Z",
-          "wordCount": 6619,
-          "title": "Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2471,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5445,
-          "title": "Creating A Multi-Author Blog With Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3530,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4167,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "publishedOn": "2021-06-23T13:30:00.000Z",
-          "wordCount": 947,
-          "title": "Smashing Online Workshops (July-October 2021)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1399,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
-          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "publishedOn": "2021-06-22T09:00:00.000Z",
-          "wordCount": 2885,
-          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
-          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
-          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5309,
-          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
-          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
-          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3420,
-          "title": "An Alternative Voice UI To Voice Assistants",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
-          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
-          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3953,
-          "title": "Client-Side Routing In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1635,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4105,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
-          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "publishedOn": "2021-06-15T10:15:00.000Z",
-          "wordCount": 2381,
-          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "publishedOn": "2021-06-15T07:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3666,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
-          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1697,
-          "title": "Web Design Done Well: Making Use Of Audio",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
-          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5160,
-          "title": "Useful Front-End Boilerplates And Starter Kits",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "author": "hello@smashingmagazine.com (Stefan Judis)",
-          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
-          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 878,
-          "title": "Three Front-End Auditing Tools I Discovered Recently",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
-          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2778,
-          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
-          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2347,
-          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
-          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
-          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2431,
-          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.youtube.com/watch?v=4sosXZsdy-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4sosXZsdy-s",
+          "publishedOn": "2021-06-09T13:28:51.000Z",
+          "wordCount": null,
+          "title": "Bootstrap 5 Crash Course | Website Build & Deploy"
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "title": "Google Chrome Developers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
+      "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
       "articles": [
         {
-          "id": "60de3cf127f80207bcdbc9af",
+          "id": "https://www.youtube.com/watch?v=2N8H6LIdSgs",
           "author": null,
-          "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/",
-          "publishedOn": "2021-07-02T04:55:18.000Z",
-          "wordCount": 641,
-          "title": "freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2N8H6LIdSgs",
+          "publishedOn": "2021-07-01T17:00:04.000Z",
+          "wordCount": null,
+          "title": "A good cookie recipe (French with English subtitles)"
         },
         {
-          "id": "60dc72b527f80207bcdbbd8f",
+          "id": "https://www.youtube.com/watch?v=evrNn54UkHQ",
           "author": null,
-          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
-          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
-          "publishedOn": "2021-07-01T18:19:21.000Z",
-          "wordCount": 3084,
-          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=evrNn54UkHQ",
+          "publishedOn": "2021-06-24T17:00:19.000Z",
+          "wordCount": null,
+          "title": "Core Web Vitals: An everyday explanation (Taiwanese with English subtitles)"
         },
         {
-          "id": "60c0897ad3126007592d5701",
+          "id": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
           "author": null,
-          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
-          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
-          "publishedOn": "2021-07-01T18:02:56.000Z",
-          "wordCount": 1769,
-          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
+          "publishedOn": "2021-06-22T15:12:58.000Z",
+          "wordCount": null,
+          "title": "Top 10 performance pitfalls - HTTP 203"
         },
         {
-          "id": "60d5e7ae6e1a1407b6b0bc5a",
+          "id": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
           "author": null,
-          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
-          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
-          "publishedOn": "2021-07-01T16:51:30.000Z",
-          "wordCount": 79275,
-          "title": "Backend Web Development with Python - Full Course"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
+          "publishedOn": "2021-06-17T17:00:59.000Z",
+          "wordCount": null,
+          "title": "What is the state of web frameworks in India (Hindi with English subtitles)"
         },
         {
-          "id": "60dc78e927f80207bcdbbddc",
+          "id": "https://www.youtube.com/watch?v=PPJKljH1dn8",
           "author": null,
-          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
-          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
-          "publishedOn": "2021-07-01T04:36:31.000Z",
-          "wordCount": 942,
-          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PPJKljH1dn8",
+          "publishedOn": "2021-06-10T17:05:24.000Z",
+          "wordCount": null,
+          "title": "Advanced patterns for Progressive Web Apps (Spanish with English subtitles)"
         },
         {
-          "id": "6063b8d69618b008528a9d79",
+          "id": "https://www.youtube.com/watch?v=oHcTn83M1ls",
           "author": null,
-          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
-          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
-          "publishedOn": "2021-06-30T18:49:49.000Z",
-          "wordCount": 956,
-          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oHcTn83M1ls",
+          "publishedOn": "2021-06-09T17:01:09.000Z",
+          "wordCount": null,
+          "title": "Thinking on ways to solve COLOR SCHEMES"
         },
         {
-          "id": "6055c55b687d62084bf68804",
+          "id": "https://www.youtube.com/watch?v=PZryHH8roIY",
           "author": null,
-          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
-          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
-          "publishedOn": "2021-06-30T14:25:53.000Z",
-          "wordCount": 12270,
-          "title": "What is The C Programming Language? A Tutorial for Beginners"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PZryHH8roIY",
+          "publishedOn": "2021-06-08T14:41:15.000Z",
+          "wordCount": null,
+          "title": "From nothin’ to gzip - HTTP 203"
+        }
+      ]
+    },
+    {
+      "title": "Veritasium",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+      "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yCsgoLc_fzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yCsgoLc_fzI",
+          "publishedOn": "2021-06-30T18:31:01.000Z",
+          "wordCount": null,
+          "title": "A Physics Prof Bet Me $10,000 I'm Wrong"
         },
         {
-          "id": "60d5ea736e1a1407b6b0bc8d",
+          "id": "https://www.youtube.com/watch?v=w4sLAQvEH-M",
           "author": null,
-          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
-          "link": "https://www.freecodecamp.org/news/learn-react-router/",
-          "publishedOn": "2021-06-30T14:01:01.000Z",
-          "wordCount": 5542,
-          "title": "Learn React Router"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w4sLAQvEH-M",
+          "publishedOn": "2021-06-16T15:36:29.000Z",
+          "wordCount": null,
+          "title": "The Longest-Running Evolution Experiment"
+        }
+      ]
+    },
+    {
+      "title": "French Cooking Academy",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0lG3Ihe4LGV851lODRIS5g",
+      "siteUrl": "https://www.youtube.com/channel/UC0lG3Ihe4LGV851lODRIS5g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=prnwe6ompi0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prnwe6ompi0",
+          "publishedOn": "2021-07-01T03:05:16.000Z",
+          "wordCount": null,
+          "title": "Deliciously creamy ham and cheese Pithivier (made with an easy homemade puff pastry)"
         },
         {
-          "id": "60db519527f80207bcdbb6fa",
+          "id": "https://www.youtube.com/watch?v=CqJA8KbmqB4",
           "author": null,
-          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
-          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
-          "publishedOn": "2021-06-29T20:00:32.000Z",
-          "wordCount": 908,
-          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CqJA8KbmqB4",
+          "publishedOn": "2021-06-24T10:45:34.000Z",
+          "wordCount": null,
+          "title": "Never buy puff pastry again: The easiest puff pastry recipe ever (ready in one hour)"
         },
         {
-          "id": "604b8c6ea7946308b7687683",
+          "id": "https://www.youtube.com/watch?v=RicmYF3VpSc",
           "author": null,
-          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
-          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
-          "publishedOn": "2021-06-29T19:47:13.000Z",
-          "wordCount": 1079,
-          "title": "Linux List Processes – How to Check Running Processes"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RicmYF3VpSc",
+          "publishedOn": "2021-06-17T10:34:10.000Z",
+          "wordCount": null,
+          "title": "Creamy chicken cooked with cognac and Riesling"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B9h8Sbj20ac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B9h8Sbj20ac",
+          "publishedOn": "2021-06-12T12:53:22.000Z",
+          "wordCount": null,
+          "title": "Two ingredients dessert: the white chocolate mousse (with red fruit coulis)"
+        }
+      ]
+    },
+    {
+      "title": "Ars Technica",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDU1fsmgvWljcW2aodfJsA",
+      "siteUrl": "https://www.youtube.com/channel/UCCDU1fsmgvWljcW2aodfJsA",
+      "articles": []
+    },
+    {
+      "title": "Technology Connections",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "siteUrl": "https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F3rncxf4Or8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F3rncxf4Or8",
+          "publishedOn": "2021-07-01T14:35:54.000Z",
+          "wordCount": null,
+          "title": "How the gas mantle made lamps 10X brighter"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tURHTuKHBZs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tURHTuKHBZs",
+          "publishedOn": "2021-06-16T15:24:29.000Z",
+          "wordCount": null,
+          "title": "Why do hurricane lanterns look like that?"
+        }
+      ]
+    },
+    {
+      "title": "Alex",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPzFLpOblZEaIx2lpym1l1A",
+      "siteUrl": "https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1L5qBMtFXBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1L5qBMtFXBs",
+          "publishedOn": "2021-07-03T16:45:00.000Z",
+          "wordCount": null,
+          "title": "Can You Make Perfect Fried Rice Without a Wok? (Series Finale ft. Chinese Cooking Demystified)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HDbCgoY0sMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HDbCgoY0sMs",
+          "publishedOn": "2021-06-26T16:45:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Masterchef JUDGES MY FRIED RICE (he tough tho)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pgkOLQCMKas",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgkOLQCMKas",
+          "publishedOn": "2021-06-19T16:45:00.000Z",
+          "wordCount": null,
+          "title": "I've Been Cooking Rice WRONG My Entire Life ! (the steaming method)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vBIZytq_9vs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vBIZytq_9vs",
+          "publishedOn": "2021-06-12T16:45:01.000Z",
+          "wordCount": null,
+          "title": "I Built My DREAM WOK STOVE ! High power + Knee operated"
         }
       ]
     }

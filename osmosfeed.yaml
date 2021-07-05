@@ -1,4 +1,6 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://dailywatch.netlify.app/cache.json
+cacheMaxDays: 120
+siteTitle: "dailywatch"
 sources:
   # Honeypot
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA

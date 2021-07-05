@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T19:39:55.299Z</id>
-    <title>osmos::feed</title>
-    <updated>2021-07-05T19:39:55.299Z</updated>
+    <id>https://dailywatch.netlify.app/index.html</id>
+    <title>dailywatch</title>
+    <updated>2021-07-05T19:42:09.749Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://dailywatch.netlify.app/index.html"/>
+    <link rel="self" href="https://dailywatch.netlify.app/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[BEWARE! Audacity Is Now Spyware. Time To Fork?]]></title>
         <id>https://www.youtube.com/watch?v=vaX9LuOWRHE</id>
@@ -381,6 +382,681 @@
         <updated>2021-06-08T14:41:15.000Z</updated>
         <author>
             <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to pot roast a rack of lamb with vegetable and black olives]]></title>
+        <id>https://www.youtube.com/watch?v=wmQyhB7fuNQ</id>
+        <link href="https://www.youtube.com/watch?v=wmQyhB7fuNQ"/>
+        <updated>2021-06-04T23:49:45.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is DeepFake Really All That? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=IT6-5ZbabVg</id>
+        <link href="https://www.youtube.com/watch?v=IT6-5ZbabVg"/>
+        <updated>2021-06-04T18:25:13.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep dive into the PWA install flow]]></title>
+        <id>https://www.youtube.com/watch?v=kzJfiKQyD24</id>
+        <link href="https://www.youtube.com/watch?v=kzJfiKQyD24"/>
+        <updated>2021-06-03T17:00:59.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Freelance Gig Was a Disaster]]></title>
+        <id>https://www.youtube.com/watch?v=lRogMYe7ZLg</id>
+        <link href="https://www.youtube.com/watch?v=lRogMYe7ZLg"/>
+        <updated>2021-06-01T15:29:28.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day with Munich Developers | DevCities]]></title>
+        <id>https://www.youtube.com/watch?v=cTN2lpQSkls</id>
+        <link href="https://www.youtube.com/watch?v=cTN2lpQSkls"/>
+        <updated>2021-06-01T13:59:17.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perhaps the weakest link in the US electrical system]]></title>
+        <id>https://www.youtube.com/watch?v=K_q-xnYRugQ</id>
+        <link href="https://www.youtube.com/watch?v=K_q-xnYRugQ"/>
+        <updated>2021-05-30T15:15:39.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risking My Life To Settle A Physics Debate]]></title>
+        <id>https://www.youtube.com/watch?v=jyQwgBAaBag</id>
+        <link href="https://www.youtube.com/watch?v=jyQwgBAaBag"/>
+        <updated>2021-05-29T16:14:37.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Try to Master the Stir-Fry Motion Like a Pro Chinese Chef (翻锅)]]></title>
+        <id>https://www.youtube.com/watch?v=CjGvM1_2S-g</id>
+        <link href="https://www.youtube.com/watch?v=CjGvM1_2S-g"/>
+        <updated>2021-05-29T04:45:01.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Dennis Ritchie's PhD Thesis - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=82TxNejKsng</id>
+        <link href="https://www.youtube.com/watch?v=82TxNejKsng"/>
+        <updated>2021-05-28T19:13:28.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Audio API 드럼머신 만들기 (Korean with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=MY8LZ49D76c</id>
+        <link href="https://www.youtube.com/watch?v=MY8LZ49D76c"/>
+        <updated>2021-05-27T17:07:34.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best steak tartare recipe : Bocuse Style (the easy way using a food mincer)]]></title>
+        <id>https://www.youtube.com/watch?v=mxXtaxIxOto</id>
+        <link href="https://www.youtube.com/watch?v=mxXtaxIxOto"/>
+        <updated>2021-05-27T10:58:22.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular DevTools | Demo]]></title>
+        <id>https://www.youtube.com/watch?v=d1SJL51FFxQ</id>
+        <link href="https://www.youtube.com/watch?v=d1SJL51FFxQ"/>
+        <updated>2021-05-26T18:01:15.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progressively loading images - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=-7k3H2GxE5E</id>
+        <link href="https://www.youtube.com/watch?v=-7k3H2GxE5E"/>
+        <updated>2021-05-26T14:12:22.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Hour Vue.js & Firebase Project - FireBlogs]]></title>
+        <id>https://www.youtube.com/watch?v=ISv22NNL-aE</id>
+        <link href="https://www.youtube.com/watch?v=ISv22NNL-aE"/>
+        <updated>2021-05-26T12:58:14.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in Chrome 91: File System Access API improvements, Google IO, and more]]></title>
+        <id>https://www.youtube.com/watch?v=vy6FXa0n1r0</id>
+        <link href="https://www.youtube.com/watch?v=vy6FXa0n1r0"/>
+        <updated>2021-05-25T23:00:13.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsolved Mysteries Of Quantum Leap With Donald P. Bellisario | Unsolved Mysteries | Ars Technica]]></title>
+        <id>https://www.youtube.com/watch?v=764KR3TVMgs</id>
+        <link href="https://www.youtube.com/watch?v=764KR3TVMgs"/>
+        <updated>2021-05-25T15:00:02.000Z</updated>
+        <author>
+            <name>Ars Technica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=YCrEmhfwsgg</id>
+        <link href="https://www.youtube.com/watch?v=YCrEmhfwsgg"/>
+        <updated>2021-05-24T23:45:19.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 91 - What’s New in DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=Givhtk3rObE</id>
+        <link href="https://www.youtube.com/watch?v=Givhtk3rObE"/>
+        <updated>2021-05-24T23:41:43.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web runtime performance | Q&A]]></title>
+        <id>https://www.youtube.com/watch?v=b-osLoWii2M</id>
+        <link href="https://www.youtube.com/watch?v=b-osLoWii2M"/>
+        <updated>2021-05-24T20:26:46.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Gods of Stir-Fry (and how I discovered them outside YouTube)]]></title>
+        <id>https://www.youtube.com/watch?v=_LTVfsIztA0</id>
+        <link href="https://www.youtube.com/watch?v=_LTVfsIztA0"/>
+        <updated>2021-05-22T16:45:03.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math Has a Fatal Flaw]]></title>
+        <id>https://www.youtube.com/watch?v=HeQX2HjkcNo</id>
+        <link href="https://www.youtube.com/watch?v=HeQX2HjkcNo"/>
+        <updated>2021-05-22T14:23:50.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing with a Robot Arm - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=dqgT--f9so0</id>
+        <link href="https://www.youtube.com/watch?v=dqgT--f9so0"/>
+        <updated>2021-05-21T15:31:28.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Crookes Radiometer can teach us]]></title>
+        <id>https://www.youtube.com/watch?v=t-JN2U4jHgk</id>
+        <link href="https://www.youtube.com/watch?v=t-JN2U4jHgk"/>
+        <updated>2021-05-20T13:41:07.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Simona Cotin]]></title>
+        <id>https://www.youtube.com/watch?v=dWh4tQigIYs</id>
+        <link href="https://www.youtube.com/watch?v=dWh4tQigIYs"/>
+        <updated>2021-05-20T12:37:55.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you make barbecue style skewers on the stove? | grill pan recipes]]></title>
+        <id>https://www.youtube.com/watch?v=5bdRWbjZJR0</id>
+        <link href="https://www.youtube.com/watch?v=5bdRWbjZJR0"/>
+        <updated>2021-05-20T08:32:22.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Notion API | Node.js Video Schedule Project]]></title>
+        <id>https://www.youtube.com/watch?v=9JdP-S3crt8</id>
+        <link href="https://www.youtube.com/watch?v=9JdP-S3crt8"/>
+        <updated>2021-05-19T12:32:21.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching For The Perfect Wok]]></title>
+        <id>https://www.youtube.com/watch?v=6gILWdpVzRI</id>
+        <link href="https://www.youtube.com/watch?v=6gILWdpVzRI"/>
+        <updated>2021-05-15T16:45:00.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rog-O-Matic, Game Playing Program - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=_OboQeIK61c</id>
+        <link href="https://www.youtube.com/watch?v=_OboQeIK61c"/>
+        <updated>2021-05-14T17:24:54.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Obinna Ekwuno]]></title>
+        <id>https://www.youtube.com/watch?v=VdZ4HBCvOA8</id>
+        <link href="https://www.youtube.com/watch?v=VdZ4HBCvOA8"/>
+        <updated>2021-05-13T11:30:06.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you know the sauce vierge? (How to make a virgin sauce) great sauce for the warmer days]]></title>
+        <id>https://www.youtube.com/watch?v=ObG0o2OTrec</id>
+        <link href="https://www.youtube.com/watch?v=ObG0o2OTrec"/>
+        <updated>2021-05-13T07:04:58.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terminal Style Landing Page | WinBox.js]]></title>
+        <id>https://www.youtube.com/watch?v=jQCk2yo10YY</id>
+        <link href="https://www.youtube.com/watch?v=jQCk2yo10YY"/>
+        <updated>2021-05-11T17:07:37.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How An Infinite Hotel Ran Out Of Room]]></title>
+        <id>https://www.youtube.com/watch?v=OxGsU8oIWjY</id>
+        <link href="https://www.youtube.com/watch?v=OxGsU8oIWjY"/>
+        <updated>2021-05-10T16:02:12.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MICHELIN STAR FRIED RICE is on A Whole 'Nother Level !]]></title>
+        <id>https://www.youtube.com/watch?v=Z-k_kPcgesE</id>
+        <link href="https://www.youtube.com/watch?v=Z-k_kPcgesE"/>
+        <updated>2021-05-08T16:45:01.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kidnapped Robot Problem - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=8a3KX2InUqY</id>
+        <link href="https://www.youtube.com/watch?v=8a3KX2InUqY"/>
+        <updated>2021-05-06T16:44:02.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Crash Course 2021]]></title>
+        <id>https://www.youtube.com/watch?v=3dHNOWTI7H8</id>
+        <link href="https://www.youtube.com/watch?v=3dHNOWTI7H8"/>
+        <updated>2021-05-06T15:40:03.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsolved Mysteries Of Warhammer 40K With Author Dan Abnett | Ars Technica]]></title>
+        <id>https://www.youtube.com/watch?v=VchkiTUisu8</id>
+        <link href="https://www.youtube.com/watch?v=VchkiTUisu8"/>
+        <updated>2021-05-05T15:00:03.000Z</updated>
+        <author>
+            <name>Ars Technica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Erin Fox]]></title>
+        <id>https://www.youtube.com/watch?v=k1HmQH2bFIk</id>
+        <link href="https://www.youtube.com/watch?v=k1HmQH2bFIk"/>
+        <updated>2021-05-05T12:26:13.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Fried Rice is Way Harder Than I Thought (ft. Chinese Cooking Demystified)]]></title>
+        <id>https://www.youtube.com/watch?v=LO1zQnLT138</id>
+        <link href="https://www.youtube.com/watch?v=LO1zQnLT138"/>
+        <updated>2021-05-01T16:45:01.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Files Become Bigger in Emails - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=zV-fR7xA4Hc</id>
+        <link href="https://www.youtube.com/watch?v=zV-fR7xA4Hc"/>
+        <updated>2021-04-30T12:09:20.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a sauce making expert and craft 30 most well known French sauces]]></title>
+        <id>https://www.youtube.com/watch?v=inAQv4MilNQ</id>
+        <link href="https://www.youtube.com/watch?v=inAQv4MilNQ"/>
+        <updated>2021-04-30T01:07:57.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analog Hygrometers - how?]]></title>
+        <id>https://www.youtube.com/watch?v=jCUHDFYdG44</id>
+        <link href="https://www.youtube.com/watch?v=jCUHDFYdG44"/>
+        <updated>2021-04-29T15:38:18.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Chris Heilmann]]></title>
+        <id>https://www.youtube.com/watch?v=qE2G8p5HnjU</id>
+        <link href="https://www.youtube.com/watch?v=qE2G8p5HnjU"/>
+        <updated>2021-04-29T12:07:57.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path To Fried Rice (New Series Trailer)]]></title>
+        <id>https://www.youtube.com/watch?v=6KpQ0qkLj28</id>
+        <link href="https://www.youtube.com/watch?v=6KpQ0qkLj28"/>
+        <updated>2021-04-28T16:45:00.000Z</updated>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overworking Yourself As A Developer | Mental & Physical Health]]></title>
+        <id>https://www.youtube.com/watch?v=BKQVqzhnP8I</id>
+        <link href="https://www.youtube.com/watch?v=BKQVqzhnP8I"/>
+        <updated>2021-04-28T16:08:35.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Data Center Inside Your Laptop - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=shn38x7BbO0</id>
+        <link href="https://www.youtube.com/watch?v=shn38x7BbO0"/>
+        <updated>2021-04-23T17:37:33.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Covid Tracker App With Vue.js & Tailwind]]></title>
+        <id>https://www.youtube.com/watch?v=m-MAIpnH9ag</id>
+        <link href="https://www.youtube.com/watch?v=m-MAIpnH9ag"/>
+        <updated>2021-04-23T12:25:56.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Scott Hanselman]]></title>
+        <id>https://www.youtube.com/watch?v=kcXKyqVS948</id>
+        <link href="https://www.youtube.com/watch?v=kcXKyqVS948"/>
+        <updated>2021-04-22T11:59:41.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make a simple French style vanilla slice in 30 minutes]]></title>
+        <id>https://www.youtube.com/watch?v=ZY-wZPBvDz0</id>
+        <link href="https://www.youtube.com/watch?v=ZY-wZPBvDz0"/>
+        <updated>2021-04-22T08:58:33.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These digital clocks aren't digital at all]]></title>
+        <id>https://www.youtube.com/watch?v=ZArBfxaPzD8</id>
+        <link href="https://www.youtube.com/watch?v=ZArBfxaPzD8"/>
+        <updated>2021-04-17T14:31:02.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Unstoppable Robot Could Save Your Life]]></title>
+        <id>https://www.youtube.com/watch?v=qevIIQHrJZg</id>
+        <link href="https://www.youtube.com/watch?v=qevIIQHrJZg"/>
+        <updated>2021-04-16T14:11:43.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Shruti Kapoor]]></title>
+        <id>https://www.youtube.com/watch?v=oq32PUomubY</id>
+        <link href="https://www.youtube.com/watch?v=oq32PUomubY"/>
+        <updated>2021-04-15T12:00:04.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to baked quinces and make an apricot caramel sauce]]></title>
+        <id>https://www.youtube.com/watch?v=tUES3f8IMic</id>
+        <link href="https://www.youtube.com/watch?v=tUES3f8IMic"/>
+        <updated>2021-04-15T07:50:54.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking Enigma in 2021 - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=RzWB5jL5RX0</id>
+        <link href="https://www.youtube.com/watch?v=RzWB5jL5RX0"/>
+        <updated>2021-04-12T17:01:34.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Music Player | Vanilla JavaScript]]></title>
+        <id>https://www.youtube.com/watch?v=QTHRWGn_sJw</id>
+        <link href="https://www.youtube.com/watch?v=QTHRWGn_sJw"/>
+        <updated>2021-04-10T14:00:27.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confit of zucchini and tomato (chef recipe)]]></title>
+        <id>https://www.youtube.com/watch?v=vrd0XFyt5PM</id>
+        <link href="https://www.youtube.com/watch?v=vrd0XFyt5PM"/>
+        <updated>2021-04-08T15:00:33.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Queen of Code feat. Grace Hopper | Tech Pioneers #2]]></title>
+        <id>https://www.youtube.com/watch?v=5sNuPYJpSCI</id>
+        <link href="https://www.youtube.com/watch?v=5sNuPYJpSCI"/>
+        <updated>2021-04-08T14:02:12.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Brain? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=LdGMDUZVvSM</id>
+        <link href="https://www.youtube.com/watch?v=LdGMDUZVvSM"/>
+        <updated>2021-04-06T16:44:08.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Ali Spittel]]></title>
+        <id>https://www.youtube.com/watch?v=iIlLf8hdMQM</id>
+        <link href="https://www.youtube.com/watch?v=iIlLf8hdMQM"/>
+        <updated>2021-04-02T12:10:29.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Heat Pumps is Underground (and other places, too!)]]></title>
+        <id>https://www.youtube.com/watch?v=7zrx-b2sLUs</id>
+        <link href="https://www.youtube.com/watch?v=7zrx-b2sLUs"/>
+        <updated>2021-04-01T15:01:28.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sauté chicken with a creamy cider and mustard sauce.]]></title>
+        <id>https://www.youtube.com/watch?v=PZ7xivGvpEM</id>
+        <link href="https://www.youtube.com/watch?v=PZ7xivGvpEM"/>
+        <updated>2021-03-31T23:39:41.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel 8 REST API With Sanctum Authentication]]></title>
+        <id>https://www.youtube.com/watch?v=MT-GJQIY3EU</id>
+        <link href="https://www.youtube.com/watch?v=MT-GJQIY3EU"/>
+        <updated>2021-03-31T14:08:32.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret of Synchronization]]></title>
+        <id>https://www.youtube.com/watch?v=t-_VPRCtiUg</id>
+        <link href="https://www.youtube.com/watch?v=t-_VPRCtiUg"/>
+        <updated>2021-03-31T13:29:46.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Unix Computer Games - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=fPU7Uq4TtNU</id>
+        <link href="https://www.youtube.com/watch?v=fPU7Uq4TtNU"/>
+        <updated>2021-03-30T18:08:16.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is why we can't have nice things]]></title>
+        <id>https://www.youtube.com/watch?v=j5v8D-alAKE</id>
+        <link href="https://www.youtube.com/watch?v=j5v8D-alAKE"/>
+        <updated>2021-03-26T17:01:54.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Chris Coyier]]></title>
+        <id>https://www.youtube.com/watch?v=Ent8w_88T4o</id>
+        <link href="https://www.youtube.com/watch?v=Ent8w_88T4o"/>
+        <updated>2021-03-25T13:00:46.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caramelised apple tart with rhum vanilla & cinnamon]]></title>
+        <id>https://www.youtube.com/watch?v=siL_pp71XY8</id>
+        <link href="https://www.youtube.com/watch?v=siL_pp71XY8"/>
+        <updated>2021-03-25T06:55:11.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on Trusting Trust - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=SJ7lOus1FzQ</id>
+        <link href="https://www.youtube.com/watch?v=SJ7lOus1FzQ"/>
+        <updated>2021-03-23T13:54:31.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome To My World | 2021 Home Office Tour]]></title>
+        <id>https://www.youtube.com/watch?v=PEDXYcQTwd0</id>
+        <link href="https://www.youtube.com/watch?v=PEDXYcQTwd0"/>
+        <updated>2021-03-23T13:38:52.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patrick (H) Willems Reacts To His Top 1000 Comments On YouTube | Ars Technica]]></title>
+        <id>https://www.youtube.com/watch?v=3p4bWjIIGyw</id>
+        <link href="https://www.youtube.com/watch?v=3p4bWjIIGyw"/>
+        <updated>2021-03-22T15:00:02.000Z</updated>
+        <author>
+            <name>Ars Technica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Defense of the CFL: A Retrospective]]></title>
+        <id>https://www.youtube.com/watch?v=_AdBcTMHG0Q</id>
+        <link href="https://www.youtube.com/watch?v=_AdBcTMHG0Q"/>
+        <updated>2021-03-19T14:52:48.000Z</updated>
+        <author>
+            <name>Technology Connections</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Randall Kanna]]></title>
+        <id>https://www.youtube.com/watch?v=zo7bpKc9eX0</id>
+        <link href="https://www.youtube.com/watch?v=zo7bpKc9eX0"/>
+        <updated>2021-03-18T17:15:36.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pork chop, cooked with caramelized onions and sage]]></title>
+        <id>https://www.youtube.com/watch?v=OYYhfOXhbRs</id>
+        <link href="https://www.youtube.com/watch?v=OYYhfOXhbRs"/>
+        <updated>2021-03-18T07:32:35.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Agency Website From Scratch | HTML & CSS]]></title>
+        <id>https://www.youtube.com/watch?v=lvYnfMOUOJY</id>
+        <link href="https://www.youtube.com/watch?v=lvYnfMOUOJY"/>
+        <updated>2021-03-16T13:58:10.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Discovery That Transformed Pi]]></title>
+        <id>https://www.youtube.com/watch?v=gMlf1ELvRzc</id>
+        <link href="https://www.youtube.com/watch?v=gMlf1ELvRzc"/>
+        <updated>2021-03-16T13:00:20.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Michael Chan]]></title>
+        <id>https://www.youtube.com/watch?v=2ycVP8jpTgQ</id>
+        <link href="https://www.youtube.com/watch?v=2ycVP8jpTgQ"/>
+        <updated>2021-03-11T09:59:44.000Z</updated>
+        <author>
+            <name>Honeypot</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dailywatch.netlify.app/index.html</id>
     <title>dailywatch</title>
-    <updated>2021-07-06T00:32:21.760Z</updated>
+    <updated>2021-07-07T00:30:37.072Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dailywatch.netlify.app/index.html"/>
     <link rel="self" href="https://dailywatch.netlify.app/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Rambling YouTube Studio Tour (#fluff-content)]]></title>
+        <id>https://www.youtube.com/watch?v=s6sQ4k_yTWc</id>
+        <link href="https://www.youtube.com/watch?v=s6sQ4k_yTWc"/>
+        <updated>2021-07-06T21:19:40.000Z</updated>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEWARE! Audacity Is Now Spyware. Time To Fork?]]></title>
         <id>https://www.youtube.com/watch?v=vaX9LuOWRHE</id>

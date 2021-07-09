@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dailywatch.netlify.app/index.html</id>
     <title>dailywatch</title>
-    <updated>2021-07-08T00:28:54.661Z</updated>
+    <updated>2021-07-09T00:31:35.943Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://dailywatch.netlify.app/index.html"/>
     <link rel="self" href="https://dailywatch.netlify.app/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Web Stories (Swiss German with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=nTySRzu0Xto</id>
+        <link href="https://www.youtube.com/watch?v=nTySRzu0Xto"/>
+        <updated>2021-07-08T17:00:22.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing Xorg And DWM On Gentoo]]></title>
+        <id>https://www.youtube.com/watch?v=k25TrKGXo_A</id>
+        <link href="https://www.youtube.com/watch?v=k25TrKGXo_A"/>
+        <updated>2021-07-08T15:38:27.000Z</updated>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Kent C. Dodds]]></title>
+        <id>https://www.youtube.com/watch?v=z3odPLDCyLo</id>
+        <link href="https://www.youtube.com/watch?v=z3odPLDCyLo"/>
+        <updated>2021-07-08T14:07:59.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most versatile biscuit in French patisserie (easy French lady finger recipe)]]></title>
+        <id>https://www.youtube.com/watch?v=H_qUF4YLqbA</id>
+        <link href="https://www.youtube.com/watch?v=H_qUF4YLqbA"/>
+        <updated>2021-07-08T11:49:05.000Z</updated>
+        <author>
+            <name>French Cooking Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Rambling YouTube Studio Tour (#fluff-content)]]></title>
         <id>https://www.youtube.com/watch?v=s6sQ4k_yTWc</id>
@@ -1057,15 +1093,6 @@
         <updated>2021-03-16T13:00:20.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Michael Chan]]></title>
-        <id>https://www.youtube.com/watch?v=2ycVP8jpTgQ</id>
-        <link href="https://www.youtube.com/watch?v=2ycVP8jpTgQ"/>
-        <updated>2021-03-11T09:59:44.000Z</updated>
-        <author>
-            <name>Honeypot</name>
         </author>
     </entry>
 </feed>

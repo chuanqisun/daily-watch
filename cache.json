@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z3odPLDCyLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z3odPLDCyLo",
+          "publishedOn": "2021-07-08T14:07:59.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Kent C. Dodds"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cTN2lpQSkls",
           "author": null,
           "description": "",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-03-18T17:15:36.000Z",
           "wordCount": null,
           "title": "DEVS ANSWER: Randall Kanna"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2ycVP8jpTgQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2ycVP8jpTgQ",
-          "publishedOn": "2021-03-11T09:59:44.000Z",
-          "wordCount": null,
-          "title": "DEVS ANSWER: Michael Chan"
         }
       ]
     },
@@ -262,6 +262,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
       "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k25TrKGXo_A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k25TrKGXo_A",
+          "publishedOn": "2021-07-08T15:38:27.000Z",
+          "wordCount": null,
+          "title": "Installing Xorg And DWM On Gentoo"
+        },
         {
           "id": "https://www.youtube.com/watch?v=s6sQ4k_yTWc",
           "author": null,
@@ -556,6 +565,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nTySRzu0Xto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nTySRzu0Xto",
+          "publishedOn": "2021-07-08T17:00:22.000Z",
+          "wordCount": null,
+          "title": "Introduction to Web Stories (Swiss German with English subtitles)"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2N8H6LIdSgs",
           "author": null,
           "description": "",
@@ -785,6 +803,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0lG3Ihe4LGV851lODRIS5g",
       "siteUrl": "https://www.youtube.com/channel/UC0lG3Ihe4LGV851lODRIS5g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H_qUF4YLqbA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H_qUF4YLqbA",
+          "publishedOn": "2021-07-08T11:49:05.000Z",
+          "wordCount": null,
+          "title": "The most versatile biscuit in French patisserie (easy French lady finger recipe)"
+        },
         {
           "id": "https://www.youtube.com/watch?v=prnwe6ompi0",
           "author": null,
